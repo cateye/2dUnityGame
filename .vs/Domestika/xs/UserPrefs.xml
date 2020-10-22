@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{36C198AF-3B41-F1E6-5721-67FFC8F19344}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/testinRaycast.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LoadScene.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ChangeColor.cs" />
+      <File FileName="Assets/Scripts/MyBullet.cs" />
+      <File FileName="Assets/Scripts/TestingKeys.cs" />
+      <File FileName="Assets/Scripts/Weapon.cs" />
+      <File FileName="Assets/Scripts/enemyBehaviour.cs" />
+      <File FileName="Assets/Scripts/InstantiatePrefab.cs" />
+      <File FileName="Assets/Scripts/PlayerControler.cs" />
+      <File FileName="Assets/Scripts/EnemyPatrol.cs" />
+      <File FileName="Assets/Scripts/testinRaycast.cs" Line="5" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Domestika" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="testinRaycast.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="641aa7bb-67e4-4703-8f74-84af6bb71199" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
